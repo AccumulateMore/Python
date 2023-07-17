@@ -1,6 +1,6 @@
 # 最全面的 Python 笔记
 
-视频讲解：
+视频讲解【主讲人：马士兵教育】：
 
 1. https://www.bilibili.com/video/BV1wD4y1o7AS/?spm_id_from=333.337.search-card.all.click&vd_source=c9745e4447536b28b2b0735071d30bd6
 
