@@ -1,6 +1,6 @@
 # 最全面的 Python 笔记
 
-视频讲解【主讲人：马士兵教育】：
+python 视频讲解【主讲方：马士兵教育】【对应笔记：01-32】
 
 1. https://www.bilibili.com/video/BV1wD4y1o7AS/?spm_id_from=333.337.search-card.all.click&vd_source=c9745e4447536b28b2b0735071d30bd6
 
@@ -14,14 +14,21 @@
 
 ![image](https://user-images.githubusercontent.com/60348867/199949537-b04fb528-76e9-424b-8317-c3cafec2b026.png)
 
-补充：我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~~♥
+补充：
+
+我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~♥
 
 1. https://github.com/AccumulateMore
+
+我的知乎主页，还有其他领域的笔记，希望能帮助到你~♥
+
+1. https://www.zhihu.com/people/bao-bei-ru-huai
 
 "♥我的笔记，希望对你有帮助♥"
 
 ♥小声哔哔：你的star，是我更新的动力~♥
 
+---------------------------------------------
 ---------------------------------------------
 
 "♥我们读书是为了成为提灯人去照亮黑暗，而不是为了自己有灯而沾沾自喜还要去吹灭别人的蜡烛♥"
