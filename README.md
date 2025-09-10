@@ -151,7 +151,7 @@
 
 2021年我硕士毕业时，【简历】技能书写，可以借鉴（我的简历技巧10%）
 
-![image](https://github.com/user-attachments/assets/13ce32b7-112d-4037-8abc-d2a8fa420730)
+<img width="819" height="474" alt="image" src="https://github.com/user-attachments/assets/b033cef5-9b35-4287-a1d0-8e3f1ad2d874" />
 
 用了几个技巧，分享给大家：
 
