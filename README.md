@@ -31,6 +31,8 @@
 我的YouTube主页, 还有其他面试必刷的笔记，希望能帮助到你~
 
 1. https://youtube.com/@小王同学在积累
+
+<img width="1677" height="754" alt="image" src="https://github.com/user-attachments/assets/56fde375-5832-4703-93b9-b0fb340a4246" />
    
 "♥我的笔记，希望对你有帮助♥"
 
